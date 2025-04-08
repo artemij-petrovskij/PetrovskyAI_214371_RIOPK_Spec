@@ -39,7 +39,7 @@ https://github.com/artemij-petrovskij/PetrovskyAI_214371_RIOPK_Server
 Иллюстрация и описание архитектура ПС
 Архитектура ПС:
 
-![Use Case диаграмма](/arc/use-case.png)
+![Use Case диаграмма](/arc/arc.png)
 ---
 Первый уровень показывает как система взаимодействует с внешними сущностями (пользователями, внешними системами).
 ![Use Case диаграмма](/images/c4-1.png)
